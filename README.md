@@ -1,7 +1,6 @@
-# Welcome to the _"Static"_ tic files Repository
+# Welcome to the _"Static"_ files Repository
 
-Repository used to store the downloads for my website
+###### _Repository used to store the downloads for my website_
 
-
-You found the repository responsible for hosting my website downloads. Your reward is... NOTHING. 
+## You found the repository responsible for hosting my website downloads. Your reward is... NOTHING. 
 
