@@ -1,2 +1,6 @@
 # dl.ehgaming.ml
 Repository used to store the downloads for my website
+
+
+You found the repository responsible for hosting my website downloads. Your reward is... NOTHING. 
+
