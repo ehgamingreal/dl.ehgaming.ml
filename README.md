@@ -1,4 +1,5 @@
-# dl.ehgaming.ml
+# Welcome to the _"Static"_ tic files Repository
+
 Repository used to store the downloads for my website
 
 
