@@ -1,6 +1,8 @@
 # Welcome to the _"Static"_ files Repository
 
-###### _Repository used to store the downloads for my website_
+Repository used to store the downloads for my website_
 
-## You found the repository responsible for hosting my website downloads. Your reward is... NOTHING. 
+## DEPRECATION NOTICE: THIS IS NO LONGER BEING UPDATED. FILES ARE UPLOADED TO AN EXTERNAL SERVER NOW
+
+### You found the repository responsible for hosting my website downloads. Your reward is... NOTHING. 
 
